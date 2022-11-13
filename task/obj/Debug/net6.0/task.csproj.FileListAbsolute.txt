@@ -1,0 +1,15 @@
+E:\GB\Итоговые\Final1\task\bin\Debug\net6.0\task.exe
+E:\GB\Итоговые\Final1\task\bin\Debug\net6.0\task.deps.json
+E:\GB\Итоговые\Final1\task\bin\Debug\net6.0\task.runtimeconfig.json
+E:\GB\Итоговые\Final1\task\bin\Debug\net6.0\task.dll
+E:\GB\Итоговые\Final1\task\bin\Debug\net6.0\task.pdb
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.dll
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\refint\task.dll
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.pdb
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+E:\GB\Итоговые\Final1\task\obj\Debug\net6.0\ref\task.dll
